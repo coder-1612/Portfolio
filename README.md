@@ -1,3 +1,3 @@
 # Portfolio
-"Responsive Mini Portfolio" inspired by Bedimcode . This is a personal website to showcase your skills and it's super responsive. Built using HTML, CSS, &amp; JavaScript.
+"Responsive Mini Portfolio" inspired by Bedimcode . This is a personal website to showcase your skills and it's super responsive. Built using HTML, CSS, &amp; JavaScript.Implementation of drop down menu &amp; light/dark theme
 Website link:https://coder-1612.github.io/Portfolio/
